@@ -57,7 +57,7 @@ function AppShell() {
       <header className="sticky top-0 z-30 border-b border-zinc-800 bg-zinc-950/95 backdrop-blur-sm">
         <div className="mx-auto flex h-12 max-w-2xl items-center justify-between gap-4 px-4">
           <span className="text-base font-bold tracking-tight text-zinc-50 whitespace-nowrap shrink-0">
-            Ledger
+            Payment Splitter
           </span>
 
           <div className="flex items-center gap-2 shrink-0">

@@ -1,6 +1,6 @@
 {
-  "name": "Ledger",
-  "description": "Payment splitter and subscription manager on Ink",
+  "name": "Payment Splitter",
+  "description": "Payment contract & splitter with subscription manager on EVM",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
